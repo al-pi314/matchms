@@ -18,7 +18,7 @@ confidence,COMMENT:CONFIDENCE,,,LIBRARYQUALITY
 compound_name,CH$NAME,Name,NAME,NAME
 compound_class,CH$COMPOUND_CLASS,Compound_type,Ontology,
 formula,CH$FORMULA,Formula,FORMULA,
-exact_mass,CH$EXACT_MASS,ExactMass,,
+parent_mass,CH$EXACT_MASS,ExactMass,,
 nominal_mass,CH$NOMINAL_MASS,MW,,
 salt,COMMENT:SALT,Salt,,
 salt_mix_cas,COMMENT:SALT_MIX_CAS,Salt_mix_cas,,
